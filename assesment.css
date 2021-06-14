@@ -1,0 +1,22 @@
+body{
+    background-color: skyblue;
+    color:white;
+    font-weight: bold;
+    
+    width:500px;
+    margin-right: auto;
+    margin-left:auto;
+    
+}
+button{
+    padding: 1px 50px;
+    background-color: gold;
+    border-style:solid;
+}
+input{
+    height: 20px;
+}
+
+p{
+    color:black;
+ }
